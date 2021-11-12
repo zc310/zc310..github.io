@@ -1,4 +1,4 @@
-1.version: 1.0.6
+1.version: 1.1.2
 1.changelog: changelog.md
 1.url: https://play.google.com/store/apps/details?id=zc310.tech.rich.helper
-1.force: false
+1.force: true
